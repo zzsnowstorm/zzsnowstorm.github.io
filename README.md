@@ -1,2 +1,2 @@
 # zzsnowstorm.github.io
-个人博客
+zz CV
